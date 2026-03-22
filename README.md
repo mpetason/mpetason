@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=06D6F0&center=true&vCenter=true&multiline=false&width=600&lines=Staff+Technical+Engagement+Engineer;AI-Optimized+Cloud+%40+Crusoe;Kubernetes+%7C+CNCF+%7C+Platform+Eng;DevRel+%7C+Open+Source+%7C+Content)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=06D6F0&center=true&vCenter=true&multiline=false&width=600&lines=Staff+Technical+Engagement+Engineer;Crusoe+Cloud+%7C+AI+Infrastructure;Kubernetes+%7C+CNCF+%7C+Platform+Eng;DevRel+%7C+Open+Source+%7C+Content)](https://git.io/typing-svg)
 
 </div>
 
@@ -8,7 +8,7 @@
 
 ### Hi, I'm Mike 👋
 
-I'm a Staff Technical Engagement Engineer at **[Crusoe](https://crusoe.ai)** — AI-optimized cloud built for compute-intensive workloads. My work sits at the intersection of cloud infrastructure, developer experience, and technical storytelling.
+I'm a Staff Technical Engagement Engineer at **[Crusoe](https://crusoe.ai)** — [Crusoe Cloud](https://docs.crusoecloud.com/) is purpose-built for compute-intensive AI workloads. My work sits at the intersection of cloud infrastructure, developer experience, and technical storytelling.
 
 Previously at **[loft-sh](https://loft.sh)**, I led technical marketing for **vCluster** and contributed across the CNCF ecosystem — demos, tutorials, blog content, and video for Knative, DevPod, and DevSpace.
 
@@ -45,7 +45,7 @@ Previously at **[loft-sh](https://loft.sh)**, I led technical marketing for **vC
 
 ### Currently Working On
 
-- Building demos and technical enablement content for **Crusoe's AI-optimized cloud** platform
+- Building demos and technical enablement content for **[Crusoe Cloud](https://docs.crusoecloud.com/)**
 - Exploring **AI/ML infrastructure** patterns on purpose-built compute (NVIDIA H100/H200 clusters)
 - Creating **Kubernetes + AI** integration guides for cloud-native practitioners
 - Studying for **CKA** certification to deepen cluster administration skills
@@ -60,24 +60,6 @@ Previously at **[loft-sh](https://loft.sh)**, I led technical marketing for **vC
 | [jupyter-notebook](https://github.com/mpetason/jupyter-notebook) | Jupyter + DevPod — reproducible data science via devcontainers | Python · DevPod |
 | [vCluster](https://github.com/loft-sh/vcluster) | Virtual Kubernetes clusters inside namespaces | Go · CNCF |
 | [DevPod](https://github.com/loft-sh/devpod) | Client-only devcontainer environments, anywhere | Go · DevContainers |
-
----
-
-### GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=mpetason&show_icons=true&theme=tokyonight&hide_border=true&bg_color=04060f&title_color=06d6f0&icon_color=7c4dff&text_color=e8eaf0&ring_color=00e5a0" />
-&nbsp;&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mpetason&layout=compact&theme=tokyonight&hide_border=true&bg_color=04060f&title_color=06d6f0&text_color=e8eaf0&langs_count=6" />
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=mpetason&theme=tokyonight&hide_border=true&background=04060f&stroke=7c4dff&ring=06d6f0&fire=f050b0&currStreakNum=e8eaf0&sideNums=e8eaf0&currStreakLabel=00e5a0&sideLabels=00e5a0&dates=6b7a9a)](https://git.io/streak-stats)
-
-</div>
 
 ---
 
