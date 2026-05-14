@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=06D6F0&center=true&vCenter=true&multiline=false&width=600&lines=Staff+Technical+Engagement+Engineer;Crusoe+Cloud+%7C+AI+Infrastructure;Kubernetes+%7C+CNCF+%7C+Platform+Eng;DevRel+%7C+Open+Source+%7C+Content)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=06D6F0&center=true&vCenter=true&multiline=false&width=600&lines=Staff+Technical+Enablement+Engineer;Crusoe+Cloud+%7C+AI+Infrastructure;Kubernetes+%7C+CNCF+%7C+Platform+Eng;DevRel+%7C+Open+Source+%7C+Content)](https://git.io/typing-svg)
 
 </div>
 
@@ -8,7 +8,7 @@
 
 ### Hi, I'm Mike 👋
 
-I'm a Staff Technical Engagement Engineer at **[Crusoe](https://crusoe.ai)** — [Crusoe Cloud](https://docs.crusoecloud.com/) is purpose-built for compute-intensive AI workloads. My work sits at the intersection of cloud infrastructure, developer experience, and technical storytelling.
+I'm a Staff Technical Enablement Engineer at **[Crusoe](https://crusoe.ai)** — [Crusoe Cloud](https://docs.crusoecloud.com/) is purpose-built for compute-intensive AI workloads. My work sits at the intersection of cloud infrastructure, developer experience, and technical storytelling.
 
 Previously at **[loft-sh](https://loft.sh)**, I led technical marketing for **vCluster** and contributed across the CNCF ecosystem — demos, tutorials, blog content, and video for Knative, DevPod, and DevSpace.
 
